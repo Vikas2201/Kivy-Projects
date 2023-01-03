@@ -32,3 +32,9 @@ Build a calculator app that helps a user perform complex calculations in mathema
 
 Try to build a simple library management app that helps collect and manage the data of users in libraries.
 
+# Help Me Improve 
+--------------------------------------------
+
+* Hello Reader if you find any bug please consider raising issue I will address them asap
+
+* Do ⭐ the repository , if it helped you in anyway.
